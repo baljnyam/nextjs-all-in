@@ -7,7 +7,7 @@
 <ul>
 <li>1.Navigation</li>
 <li>2.Shared components</li>
-<li>3.Create Dybamic pages</li>
+<li>3.Create Dynamic pages</li>
 <li>4.Routing</li>
 <li>5.Fetching</li>
 <li>6.Styling</li>
